@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Xolmurod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Seoul,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
-  <img style="margin:10px" align="center" alt="Hello world gif" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="300" width="400" />
+  
 </div>
 
 ## 🌏 Socials:
